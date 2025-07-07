@@ -1,4 +1,4 @@
-# cross-chain-bridge
+# cross-chain-bridge smart contract
 This project demonstrates a simple cross-chain bridge implementation between two Ethereum testnets: Sepolia and Goerli. It includes:
 
 An ERC20 token contract (MyToken) deployed on Sepolia.
